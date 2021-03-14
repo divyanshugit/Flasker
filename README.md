@@ -1,3 +1,3 @@
 # Flasker
 
-!{](logo.png)
+![](logo.png)
